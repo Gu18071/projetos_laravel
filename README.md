@@ -1,4 +1,4 @@
-## Como iniciar?
+## Como iniciar o projeto?
 
 ```
 1. Entre na pasta do projeto que deseja iniciar: desafios, primeiro-projeto ou segundo-projeto
@@ -9,7 +9,7 @@
 6. Generate key (dentro do servidor)
 ```
 
-## Configurando o usuário localmente no projeto clonado:
+## Para configurar o seu Github:
 
 ```
 git config --global user.name "Your Name Here"
